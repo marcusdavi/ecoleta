@@ -1,5 +1,10 @@
 node_modules
 uploads/*
-!uploads/.gitkeep
+!uploads/lampadas.svg
+!uploads/eletronicos.svg
+!uploads/baterias.svg
+!uploads/oleo.svg
+!uploads/organicos.svg
+!uploads/papeis-papelao.svg
 
 *.sqlite
