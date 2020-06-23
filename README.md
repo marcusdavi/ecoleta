@@ -20,7 +20,7 @@ O aplicativo mobile permite a consulta destes locais.
 
 ## Pré-requisitos
 * Node.js
-* Gerenciador de pacotes seja NPM
+* Gerenciador de pacotes NPM
 * Expo
 
 ## Como rodar
