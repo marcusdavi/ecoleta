@@ -33,9 +33,9 @@ O aplicativo mobile permite a consulta destes locais.
 * Iniciar o aplicação mobile com o comando: 'npm start'
 
 ## Aplicação web
-![](image/web-home.png)
+![](image/web-home.PNG)
 
 ## Aplicação Mobile
-![](image/mobile-points.jpeg)
 ![](image/mobile-home.jpeg)
+![](image/mobile-points.jpeg)
 ![](image/mobile-detail.jpeg)
