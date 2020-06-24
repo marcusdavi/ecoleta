@@ -33,7 +33,7 @@ O aplicativo mobile permite a consulta destes locais.
 * Iniciar o aplicação mobile com o comando: 'npm start'
 
 ## Aplicação web
-<img src="image/web-home.PNG" witdh="300" height="300">
+<img src="image/web-home.PNG" witdh="360" height="360">
 
 ## Aplicação Mobile
 <img src="image/mobile-home.jpeg" witdh="200">
