@@ -36,6 +36,8 @@ O aplicativo mobile permite a consulta destes locais.
 <img src="image/web-home.PNG" witdh="360" height="360">
 
 ## Aplicação Mobile
+<p>
 <img src="image/mobile-home.png" height="420">
 <img src="image/mobile-points.png" height="420">
 <img src="image/mobile-detail.png" height="420">
+  </p>
