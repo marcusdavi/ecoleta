@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/mobile-desktop.png" witdh="300" height="250">
+  <img src="image/mobile-desktop.png" witdh="375" height="325">
  </p>
 
 # Ecoleta
