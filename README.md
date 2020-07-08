@@ -1,4 +1,6 @@
-<img src="image/capa.png" witdh="300" height="300" align="center">
+<p align="center">
+  <img src="image/capa.png" witdh="300" height="250">
+ </p>
 
 # Ecoleta
 
